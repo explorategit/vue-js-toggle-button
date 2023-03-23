@@ -78,7 +78,6 @@
           :speed="480"
           :color="{checked: '#BE3D62', unchecked: '#FF877B'}"
           :labels="{checked: 'HODOOOR!!!', unchecked: 'Hold the door?'}"/>
-          {{hodor}}
       </div>
     </div>
     <div class="padding">

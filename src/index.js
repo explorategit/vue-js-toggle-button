@@ -12,7 +12,3 @@ export default {
     installed = true
   }
 }
-
-export {
-  ToggleButton
-}
